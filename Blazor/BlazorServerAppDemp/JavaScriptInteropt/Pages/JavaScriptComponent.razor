@@ -1,0 +1,21 @@
+﻿@page "/js"
+@inject IJSRuntime jsRuntime
+<h3>JavaScriptComponent</h3>
+<h3>@confirmResult</h3>
+
+<button @onclick="showAlert">Alert</button>
+<button @onclick="showConfirm">Display Confirm</button>
+
+@code {
+    private string confirmResult;
+    private void showAlert()
+    {
+        //alert("some message")
+        jsRuntime.InvokeVoidAsync("alert","Welcome");
+    }
+    private  async Task showConfirm()
+    {
+        var result = await jsRuntime.InvokeAsync<bool>("confirm", "Do you need to procced?");
+        confirmResult = result.ToString();
+    }
+}

@@ -1,0 +1,14 @@
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\bin\Debug\net7.0\LINQ2.exe
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\bin\Debug\net7.0\LINQ2.deps.json
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\bin\Debug\net7.0\LINQ2.runtimeconfig.json
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\bin\Debug\net7.0\LINQ2.dll
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\bin\Debug\net7.0\LINQ2.pdb
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.AssemblyInfoInputs.cache
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.AssemblyInfo.cs
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.dll
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\refint\LINQ2.dll
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.pdb
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\LINQ2.genruntimeconfig.cache
+G:\Project_Training\C#\LINQ\LINQ\LINQ2\obj\Debug\net7.0\ref\LINQ2.dll

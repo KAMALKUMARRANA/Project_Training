@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M31eikuuOXt/8DQRKh4oYPnjlY4uLKFR9HALS/tUttZzD1E4PU9h0ytDxmdNNnqVaNuFq7b8pRqWEE2jmN9Mpw==",
+  "success": true,
+  "projectFilePath": "G:\\Project_Training\\C#\\C#Tutorial_Main\\C#Tutorials_Main3\\Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

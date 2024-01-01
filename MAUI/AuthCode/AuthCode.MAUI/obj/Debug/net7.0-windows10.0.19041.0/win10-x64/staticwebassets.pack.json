@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\AuthCode.MAUI.styles.css",
+      "PackagePath": "staticwebassets\\AuthCode.MAUI.styles.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\Login _ SignUp mobile(KKR).png",
+      "PackagePath": "staticwebassets\\Login _ SignUp mobile(KKR).png"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\css\\Custom.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\images\\Login _ SignUp mobile(KKR).png",
+      "PackagePath": "staticwebassets\\images\\Login _ SignUp mobile(KKR).png"
+    },
+    {
+      "Id": "G:\\Project_Training\\MAUI\\AuthCode\\AuthCode.MAUI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.AuthCode.MAUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.AuthCode.MAUI.props",
+      "PackagePath": "build\\AuthCode.MAUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.AuthCode.MAUI.props",
+      "PackagePath": "buildMultiTargeting\\AuthCode.MAUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.AuthCode.MAUI.props",
+      "PackagePath": "buildTransitive\\AuthCode.MAUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

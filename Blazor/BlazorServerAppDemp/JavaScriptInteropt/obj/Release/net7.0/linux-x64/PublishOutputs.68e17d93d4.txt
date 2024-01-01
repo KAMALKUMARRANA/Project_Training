@@ -1,0 +1,7 @@
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\JavaScriptInteropt
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\appsettings.Development.json
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\appsettings.json
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\JavaScriptInteropt.dll
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\JavaScriptInteropt.deps.json
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\JavaScriptInteropt.runtimeconfig.json
+G:\Project_Training\Blazor\BlazorServerAppDemp\JavaScriptInteropt\obj\Release\net7.0\linux-x64\PubTmp\Out\JavaScriptInteropt.pdb

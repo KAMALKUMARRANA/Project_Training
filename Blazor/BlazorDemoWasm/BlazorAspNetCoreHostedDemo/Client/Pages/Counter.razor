@@ -1,0 +1,76 @@
+﻿@page "/counter"
+@using BlazorAspNetCoreHostedDemo.Shared;
+@inject HttpClient httpClient;
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<hr /><br />
+@if(productList!=null && productList.Count != 0)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Code</th>
+                <th>Price</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in productList)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.ProductCode</td>
+                    <td>@item.ProductPrice</td>
+                    <td><button class="btn btn-danger" @onclick="async ()=>{await DeleteProduct(item.ProductCode);}">Delete</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span style="color:red">No Product to display</span>
+}
+
+<br /><br />
+<div>
+    <input @bind="product.ProductName" placeholder="Product Name" />
+    <input @bind="product.ProductCode" placeholder="Product Code" />
+    <input @bind="product.ProductPrice" placeholder="Product Price" />
+</div>
+<br />
+<br />
+<button class="btn btn-primary" @onclick="AddProduct">Add Product</button>
+<br />
+
+@code {
+    private int currentCount = 0;
+    private List<Product>? productList;
+    private Product product = new Product();
+    protected override async Task OnInitializedAsync()
+    {
+        productList = await httpClient.GetFromJsonAsync<List<Product>>("api/Product/GetProduct");
+        await base.OnInitializedAsync();
+    }
+    private async Task DeleteProduct(string productCode)
+    {
+        await httpClient.DeleteAsync($"api/Product/DeleteProduct?productCode={productCode}");
+        productList = await httpClient.GetFromJsonAsync<List<Product>>("api/Product/GetProduct");
+    }
+    private async Task AddProduct()
+    {
+        await httpClient.PostAsJsonAsync<Product>("api/Product/AddProduct", product);
+        productList = await httpClient.GetFromJsonAsync<List<Product>>("api/Product/GetProduct");
+    }
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}

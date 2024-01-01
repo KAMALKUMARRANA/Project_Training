@@ -1,0 +1,11 @@
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\bin\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.deps.json
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\bin\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.dll
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\bin\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.pdb
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.AssemblyInfoInputs.cache
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.AssemblyInfo.cs
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.csproj.CoreCompileInputs.cache
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.dll
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\refint\BlazorAspNetCoreHostedDemo.Shared.dll
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\BlazorAspNetCoreHostedDemo.Shared.pdb
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorAspNetCoreHostedDemo\Shared\obj\Debug\net7.0\ref\BlazorAspNetCoreHostedDemo.Shared.dll

@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\bin\Debug\net7.0\C#Tutorials1.exe
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\bin\Debug\net7.0\C#Tutorials1.deps.json
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\bin\Debug\net7.0\C#Tutorials1.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\bin\Debug\net7.0\C#Tutorials1.dll
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\bin\Debug\net7.0\C#Tutorials1.pdb
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.dll
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\refint\C#Tutorials1.dll
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.pdb
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\C#Tutorials1.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorials1\C#Tutorials1\obj\Debug\net7.0\ref\C#Tutorials1.dll

@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enum.exe
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enum.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enum.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enum.pdb
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\refint\Enum.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.pdb
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\ref\Enum.dll

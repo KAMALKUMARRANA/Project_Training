@@ -1,0 +1,16 @@
+﻿@page "/demo2"
+@inject ContactService  contactService
+<h3>demo2</h3>
+
+@if (contactService.ContactList.Count == 0)
+{
+    <b>Contact Not Found!</b>
+}
+else{
+    @foreach(var con in contactService.ContactList)
+    {
+        <b>@con.FirstName @con.LastName</b><br />
+        <i>@con.Email</i>
+        <hr />
+    }
+}

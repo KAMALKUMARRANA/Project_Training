@@ -1,0 +1,28 @@
+﻿@page "/"
+
+@* @using BlazorServerAppDemp.Models; *@
+@*Root Page*@
+@*<MyTextBoxComponent type="checkbox" @onchange="@(()=>{DisplayEmail=!DisplayEmail;})"></MyTextBoxComponent><label>Display Email</label>
+ *@
+ 
+<input type="checkbox" @bind="DisplayEmail" id="i" /><label for="i">display email</label>
+@foreach(var con in contacts)
+{
+     <p>
+        <b>name:</b><span>@con.FirstName @con.LastName</span> <br><br>
+        <b>email:</b><i>@con.Email</i>
+    </p>
+    <contactcomponent currentcontact="con" displayemail="@DisplayEmail" deletecurrentcontact="deletecontact"></contactcomponent>
+}
+
+<ContactListComponent></ContactListComponent>
+@* Passes arbitary attributes *@
+<MyTextBoxComponent Placeholder="Enter Name" type="text" disabled="disabeld" value="Kamal"></MyTextBoxComponent>
+<MyTextBoxComponent Placeholder="Enter Password" type="password"  ></MyTextBoxComponent>
+<MyTextBoxComponent @attributes="@(new Dictionary<string,object>{
+                                                                {"placeholder","contact number"},
+                                                                {"type","number"}
+                                                                    })" ></MyTextBoxComponent>
+  <MyTextBoxComponent @attributes="MyTextBoxAttributes"></MyTextBoxComponent>                
+ 
+

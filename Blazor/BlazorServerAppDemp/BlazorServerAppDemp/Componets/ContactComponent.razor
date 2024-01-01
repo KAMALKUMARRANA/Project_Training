@@ -1,0 +1,43 @@
+﻿<p>
+    <b>Name:</b><span>@CurrentContact.FirstName @CurrentContact.LastName</span> <br />
+    @if (DisplayEmail)
+    {
+        <b>Email:</b>
+
+        <i>@CurrentContact.Email</i>
+    }
+    <br />
+    @if (displayinfo)
+    {
+        <span>The Email address of @CurrentContact.FirstName @CurrentContact.LastName is @CurrentContact.Email</span>
+        <br />
+        <button @onclick="@(()=>{displayinfo=!displayinfo;})" class="btn btn-secondary">Hide info</button>
+    }
+    
+    else{
+    <button @onclick="@(()=>{displayinfo=!displayinfo;})" class="btn btn-primary">Show info</button>
+    }
+    <button class="btn btn-danger" @onclick="@(()=>{DeleteCurrentContact.InvokeAsync(CurrentContact);})">Delete</button>
+</p>
+
+
+@code {
+    [Parameter] // Arbitary Parameter
+    public Contact CurrentContact { get; set; }
+
+    [Parameter] //Value passes from razor page.
+    public string FirstName { get; set; }
+    [Parameter]
+    public string LastName { get; set; }
+    [Parameter]
+    public string Email { get; set; }
+    [Parameter]
+    public bool DisplayEmail { get; set; }
+
+
+     private bool displayinfo = false;
+    // call parent component using child componenet
+    [Parameter]
+    public EventCallback<Contact> DeleteCurrentContact { get; set; }
+}
+

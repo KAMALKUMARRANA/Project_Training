@@ -1,0 +1,15 @@
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\bin\Debug\net7.0\ProjectA.TeamB.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\bin\Debug\net7.0\ProjectA.TeamB.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\bin\Debug\net7.0\ProjectA.TeamB.pdb
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\bin\Debug\net7.0\ProjectA.TeamA.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\bin\Debug\net7.0\ProjectA.TeamA.pdb
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.csproj.AssemblyReference.cache
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.csproj.CopyComplete
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\refint\ProjectA.TeamB.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ProjectA.TeamB.pdb
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamB\obj\Debug\net7.0\ref\ProjectA.TeamB.dll

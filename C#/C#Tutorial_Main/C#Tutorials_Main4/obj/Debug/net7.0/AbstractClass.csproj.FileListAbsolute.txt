@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\bin\Debug\net7.0\AbstractClass.exe
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\bin\Debug\net7.0\AbstractClass.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\bin\Debug\net7.0\AbstractClass.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\bin\Debug\net7.0\AbstractClass.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\bin\Debug\net7.0\AbstractClass.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\refint\AbstractClass.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\AbstractClass.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main4\obj\Debug\net7.0\ref\AbstractClass.dll

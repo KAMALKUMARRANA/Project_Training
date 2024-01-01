@@ -1,0 +1,1 @@
+G:\Project_Training\Blazor\BlazorDemoWasm\BlazorDemoWasm.Maui\BlazorDemoWasm.Maui.csproj;x64

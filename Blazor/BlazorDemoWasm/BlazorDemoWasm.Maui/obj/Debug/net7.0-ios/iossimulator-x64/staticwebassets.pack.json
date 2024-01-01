@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\obj\\Debug\\net7.0-ios\\iossimulator-x64\\scopedcss\\bundle\\BlazorDemoWasm.Maui.styles.css",
+      "PackagePath": "staticwebassets\\BlazorDemoWasm.Maui.styles.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Project_Training\\Blazor\\BlazorDemoWasm\\BlazorDemoWasm.Maui\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.BlazorDemoWasm.Maui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.BlazorDemoWasm.Maui.props",
+      "PackagePath": "build\\BlazorDemoWasm.Maui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.BlazorDemoWasm.Maui.props",
+      "PackagePath": "buildMultiTargeting\\BlazorDemoWasm.Maui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.BlazorDemoWasm.Maui.props",
+      "PackagePath": "buildTransitive\\BlazorDemoWasm.Maui.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

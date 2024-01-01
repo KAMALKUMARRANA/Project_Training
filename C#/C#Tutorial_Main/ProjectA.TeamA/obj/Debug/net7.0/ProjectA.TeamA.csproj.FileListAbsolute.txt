@@ -1,0 +1,11 @@
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\bin\Debug\net7.0\ProjectA.TeamA.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\bin\Debug\net7.0\ProjectA.TeamA.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\bin\Debug\net7.0\ProjectA.TeamA.pdb
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\refint\ProjectA.TeamA.dll
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ProjectA.TeamA.pdb
+G:\Project_Training\C#\C#Tutorial_Main\ProjectA.TeamA\obj\Debug\net7.0\ref\ProjectA.TeamA.dll

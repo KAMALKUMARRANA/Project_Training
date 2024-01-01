@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\bin\Debug\net7.0\Interface.exe
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\bin\Debug\net7.0\Interface.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\bin\Debug\net7.0\Interface.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\bin\Debug\net7.0\Interface.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\bin\Debug\net7.0\Interface.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\refint\Interface.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#Tutorials_Main3\obj\Debug\net7.0\ref\Interface.dll

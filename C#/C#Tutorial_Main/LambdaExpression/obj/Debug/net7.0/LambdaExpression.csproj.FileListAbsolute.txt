@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\bin\Debug\net7.0\LambdaExpression.exe
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\bin\Debug\net7.0\LambdaExpression.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\bin\Debug\net7.0\LambdaExpression.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\bin\Debug\net7.0\LambdaExpression.dll
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\bin\Debug\net7.0\LambdaExpression.pdb
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.dll
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\refint\LambdaExpression.dll
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.pdb
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\LambdaExpression.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\LambdaExpression\obj\Debug\net7.0\ref\LambdaExpression.dll

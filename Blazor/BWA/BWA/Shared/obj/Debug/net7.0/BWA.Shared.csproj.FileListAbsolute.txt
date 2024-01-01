@@ -1,0 +1,11 @@
+G:\Project_Training\Blazor\BWA\BWA\Shared\bin\Debug\net7.0\BWA.Shared.deps.json
+G:\Project_Training\Blazor\BWA\BWA\Shared\bin\Debug\net7.0\BWA.Shared.dll
+G:\Project_Training\Blazor\BWA\BWA\Shared\bin\Debug\net7.0\BWA.Shared.pdb
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.AssemblyInfoInputs.cache
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.AssemblyInfo.cs
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.csproj.CoreCompileInputs.cache
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.dll
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\refint\BWA.Shared.dll
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\BWA.Shared.pdb
+G:\Project_Training\Blazor\BWA\BWA\Shared\obj\Debug\net7.0\ref\BWA.Shared.dll

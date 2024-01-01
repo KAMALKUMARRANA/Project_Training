@@ -1,0 +1,18 @@
+﻿@* <input type="checkbox" @bind="DisplayEmail" id="i" /><label for="i">Display Email</label>
+@foreach (var con in Contacts)
+{
+     <p>
+        <b>Name:</b><span>@con.FirstName @con.LastName</span> <br><br>
+        <b>Email:</b><i>@con.Email</i>
+    </p> 
+    <ContactComponent CurrentContact="con" DisplayEmail="@DisplayEmail" DeleteCurrentContact="DeleteContact"></ContactComponent>
+} *@
+@code {
+    // public List<Contact>Contacts  { get; set; }
+    // public bool DisplayEmail = true;
+    // private bool displayinfo = false;
+    // private void DeleteContact(Contact contact)
+    // {
+    //     Contacts.Remove(contact);
+    // }
+}

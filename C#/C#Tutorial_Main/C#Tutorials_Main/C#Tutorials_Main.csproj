@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C_Tutorials_Main</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectA.TeamA\ProjectA.TeamA.csproj" />
+    <ProjectReference Include="..\ProjectA.TeamB\ProjectA.TeamB.csproj" />
+  </ItemGroup>
+
+</Project>

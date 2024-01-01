@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\bin\Debug\net7.0\C#OOP2.exe
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\bin\Debug\net7.0\C#OOP2.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\bin\Debug\net7.0\C#OOP2.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\bin\Debug\net7.0\C#OOP2.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\bin\Debug\net7.0\C#OOP2.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\refint\C#OOP2.dll
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.pdb
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\C#OOP2.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\C#OOP2\obj\Debug\net7.0\ref\C#OOP2.dll

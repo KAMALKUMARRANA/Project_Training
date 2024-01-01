@@ -1,0 +1,14 @@
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enums.exe
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enums.deps.json
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enums.runtimeconfig.json
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enums.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\bin\Debug\net7.0\Enums.pdb
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\refint\Enums.dll
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.pdb
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+G:\Project_Training\C#\C#Tutorial_Main\Enum\obj\Debug\net7.0\ref\Enums.dll
